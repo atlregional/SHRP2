@@ -1,0 +1,3 @@
+#Welcome to ARC's Guide to tools tested during the SHRP2 grant work.
+
+### The spreadsheets reflecting inputs and outputs and the RSPM model used by ARC during the SHRP2 grant are all available on Github. In addition, the code for the scenario visualization tool will be available in the same location after ARC releases the tool in Q4 2017. The files and code available on Github and the corresponding Scenario Testing Procedures and Results technical memo should help to guide staff at peer agencies through the process of reproducing the modeling work done by ARC. 
